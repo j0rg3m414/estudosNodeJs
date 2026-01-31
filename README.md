@@ -55,3 +55,10 @@ Baixar os arquivos do Git
 ```
 git clone -b nomeDaBranch urlHttpCopiadoDoGitHub .
 ```
+
+## Instalação do Nodemon para recarregamento automático ao salvar uma alteração sem precisar compilar e rodar.
+Obs: -g = modo blobal
+```
+npm install -g nodemon
+```
+Reiniciar o PC
